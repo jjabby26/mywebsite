@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 
 export default function About() {
-  return <h4 className='About'><p><h1>ABOUT ME </h1>
+  return <h4 className='About'><h1>ABOUT ME </h1><p>
     <p>********************************</p><p>HOW I BECAME A SOFTWARE TESTER :
     <p>----------------------------------------------------</p></p>A long time ago, in a galaxy far far away…Sorry..Actually not very long ago,
   4 years from now I was working as a manual Quality Assurance software tester at "Mshah Info Technologies".My colleague 
