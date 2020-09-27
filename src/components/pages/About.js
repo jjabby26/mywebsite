@@ -7,11 +7,11 @@ export default function About() {
     <p>-</p>
     <p>-</p>
     <p>-</p>
+    <p>-</p>
+    <p>-</p>
+    <p>-</p>
     <p>HOW I BECAME A SOFTWARE TESTER :
-    <p>-</p>
-    <p>-</p>
-    
-    </p>A long time ago, in a galaxy far far away…Sorry..Actually not very long ago,
+    <p>----------------------------------------------------</p></p>A long time ago, in a galaxy far far away…Sorry..Actually not very long ago,
   4 years from now I was working as a manual Quality Assurance software tester at "Mshah Info Technologies".My colleague 
   and myself were doing the test execution manually and the project required lots of regression because the application 
   depended on multiple web services and new features were added to the application every now and then,
