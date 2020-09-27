@@ -6,9 +6,9 @@ export default function About() {
     <p>********************************</p><p>HOW I BECAME A SOFTWARE TESTER :
     <p>----------------------------------------------------</p></p>A long time ago, in a galaxy far far away…Sorry..Actually not very long ago,
   4 years from now I was working as a manual Quality Assurance software tester at "Mshah Info Technologies".My colleague 
-  and myself were doing the test execution manually. The project required lots of regression because the application 
+  and myself were doing the test execution manually and the project required lots of regression because the application 
   depended on multiple web services and new features were added to the application every now and then,
-   which made the process even more cumbersome to carry out manually..It was then that i decided to try 
+   which made the process even more cumbersome to carry out manually..It was then that I decided to try 
    my hand on automating the test cases which required multiple data entries on multiple browsers, 
    I did fairly well(with help from online youtube tutorials). After the project closure ,
    I took up more professional training and certifications in Selinium and Java. I have configured, designed, 

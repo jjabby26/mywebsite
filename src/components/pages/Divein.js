@@ -3,8 +3,8 @@ import '../../App.css';
 
 export default function Divein(){
    return <h1 className='Divein'><h1>ThankYou for visiting my Website </h1>
-   <p>If you like this fully responsive website that I created using Reactjs,HTML5 and CSS5,Get in touch for tips and suggesitions.</p>
-   <p>***************************************************************************</p> 
+   <p>If you like this fully responsive website that I created using Reactjs,HTML5 and CSS5,Then get in touch for tips and suggesitions.</p>
+   <p>********************************************************************************************</p> 
    <p>"I would love to hear from you"</p> 
    <p>................................................</p>
    <p>Mail me - <a href="mailto:jabeenjuveria26@gmail.com"> jabeenjuveria26@gmail.com  </a></p>
