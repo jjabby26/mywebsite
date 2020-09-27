@@ -22,7 +22,7 @@ function Footer() {
               placeholder='Your Email'
             /> */}
             
-            <Button buttonStyle='btn--outline'>Drop me an Email<a href="mailto:jabeenjuveria26@gmail.com"></a></Button>
+            <Button buttonStyle='btn--outline'>Drop me an Email</Button>
           
           </form>
         </div>

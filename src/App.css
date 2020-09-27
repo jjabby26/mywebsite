@@ -29,7 +29,7 @@
   }
   
   .Myworld {
-     background-image: url('/images/grass.jpg');
+    background-image: url('/images/grass.jpg');
     background-color: rgb(190, 178, 178);
     background-position: center;
     background-size :100%;
